@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Launcher
+namespace H2M_Launcher
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Launcher
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Launcher());
+            Application.Run(new Form1());
         }
     }
 }

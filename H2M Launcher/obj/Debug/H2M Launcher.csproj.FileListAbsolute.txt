@@ -1,0 +1,9 @@
+C:\Users\Dread\source\repos\H2M Launcher\H2M Launcher\bin\Debug\H2M Launcher.exe.config
+C:\Users\Dread\source\repos\H2M Launcher\H2M Launcher\bin\Debug\H2M Launcher.exe
+C:\Users\Dread\source\repos\H2M Launcher\H2M Launcher\bin\Debug\H2M Launcher.pdb
+C:\Users\Dread\source\repos\H2M Launcher\H2M Launcher\obj\Debug\H2M_Launcher.Form1.resources
+C:\Users\Dread\source\repos\H2M Launcher\H2M Launcher\obj\Debug\H2M_Launcher.Properties.Resources.resources
+C:\Users\Dread\source\repos\H2M Launcher\H2M Launcher\obj\Debug\H2M Launcher.csproj.GenerateResource.cache
+C:\Users\Dread\source\repos\H2M Launcher\H2M Launcher\obj\Debug\H2M Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Dread\source\repos\H2M Launcher\H2M Launcher\obj\Debug\H2M Launcher.exe
+C:\Users\Dread\source\repos\H2M Launcher\H2M Launcher\obj\Debug\H2M Launcher.pdb
